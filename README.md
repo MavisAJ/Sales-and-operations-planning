@@ -1,2 +1,2 @@
 # Sales-and-operations-planning
-The goal of this project is to simulate a sales and operations planning using the zero stock level strategy.
+The goal of this project is to simulate a sales and operations planning using the zero stock level strategy.When an initial stock level and the estimated sales for the next 5 months are provided the coded is able to determine how much stock is left and how much stock will be needed to be added to the remaining stock to be able to cover the sales for a particular month.
